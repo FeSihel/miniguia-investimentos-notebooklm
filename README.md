@@ -89,6 +89,7 @@ Prompt 2 - Abstração Didática (Analogias Concretas):
 "Aja como um professor de finanças focado em acessibilidade e didática. Explique a dinâmica da 'Marcação a Mercado' em títulos pós-fixados e pré-fixados utilizando uma analogia simples com o mercado de compra e venda de veículos usados."
 Prompt 3 - Análise de Cenário e Mitigação de Riscos:
 "Considerando os textos anexados sobre o funcionamento da Bolsa de Valores e os cuidados apontados pela CVM, elabore um checklist de 4 pontos fundamentais que um investidor iniciante deve checar antes de realizar a compra de sua primeira ação ordinária."
+````
 
 🛠️ Tecnologias Utilizadas
 Google NotebookLM (Mecanismo de IA e Engenharia de Contexto)
